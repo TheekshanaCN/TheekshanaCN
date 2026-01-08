@@ -4,7 +4,7 @@ I build **SaaS platforms, automation systems, and web applications**,
 and I’m moving toward **AI / ML-driven products** long-term.
 
 **What I'm working on**  
-- Bridging the gap between product ideas and production — [**IdeaForge**](https://tryideaforge.netlify.app/)
+- Bridging the gap between product ideas and production — [**IdeaForge**]()
 
 **Things I’ve built**  
 - Modern POS + HR Management System — [**INEERO POS**](https://github.com/TheekshanaCN/ineero-pos-updates)  
